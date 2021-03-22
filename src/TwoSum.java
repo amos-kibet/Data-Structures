@@ -34,12 +34,4 @@ public class TwoSum {
         // return null if the numbers were not found
         return null;
     }
-
-    public static void main(String[] args) {
-        //System.out.println([1, 2, 3, 4], 6);
-
-        int[] intArray = {1,2,3,4,5};
-        System.out.println(Arrays.toString(intArray));
-
-    }
 }
